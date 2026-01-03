@@ -16,7 +16,7 @@ class GameFrame extends JFrame {
 
     @Override
     public String toString() {
-        return "Hi";
+        return "Welcome to the snake game";
     }
 }
 
